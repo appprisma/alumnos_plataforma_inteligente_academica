@@ -139,7 +139,7 @@ function renderData(alumno, resumen, ms) {
     📊 El status visual corresponde únicamente a actividades calificadas.
   </div>
   <div class="alert-box alert-warning">
-    ⚠️ <strong>Nota:</strong> Los promedios oficiales pueden variar. Consulta Classroom para detalles finales. Asi mismo, si cuentas con alguna actividad con calificación "0", verifica con tu docente.
+    ⚠️ <strong>Nota:</strong> Los promedios oficiales pueden variar. Consulta Classroom para detalles finales. Asi mismo, si cuentas con alguna actividad con calificación "0.01", verifica con tu docente ese status.
   </div>`;
 
   if (!resumen.length) {
